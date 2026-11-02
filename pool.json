@@ -6,5 +6,8 @@
   "poolUsedPct": 2,
   "weeklyUsedPct": 100,
   "weeklyReset": "2026-11-07 13:27 JST",
+  "weeklyTotalYi": 1.056,
+  "weeklyUsedYi": 1.056,
+  "weeklyLeftYi": 0,
   "updatedAt": "2026-11-03 01:53 JST"
 }

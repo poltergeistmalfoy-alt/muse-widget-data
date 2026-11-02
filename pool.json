@@ -1,13 +1,13 @@
 {
-  "poolLeftYi": 313.064,
-  "poolUsedYi": 6.936,
+  "poolLeftYi": 312.781,
+  "poolUsedYi": 7.219,
   "poolTotalYi": 320,
-  "remainingPct": 97.83,
-  "poolUsedPct": 2.167500015625,
+  "remainingPct": 97.74,
+  "poolUsedPct": 2.256039075,
   "weeklyUsedPct": 100,
   "weeklyReset": "2026-11-07 13:27 JST",
   "weeklyTotalYi": 1.056,
   "weeklyUsedYi": 1.056,
   "weeklyLeftYi": 0.0,
-  "updatedAt": "2026-11-03 03:07 JST"
+  "updatedAt": "2026-11-03 03:28 JST"
 }

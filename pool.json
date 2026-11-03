@@ -1,13 +1,19 @@
 {
-  "poolLeftYi": 312.77,
-  "poolUsedYi": 7.23,
+  "poolLeftYi": 312.764,
+  "poolUsedYi": 7.236,
   "poolTotalYi": 320,
   "remainingPct": 97.74,
-  "poolUsedPct": 2.2592627937499996,
+  "poolUsedPct": 2.2613913875,
   "weeklyUsedPct": 100,
   "weeklyReset": "2026-11-07 13:27 JST",
   "weeklyTotalYi": 1.056,
   "weeklyUsedYi": 1.056,
   "weeklyLeftYi": 0.0,
-  "updatedAt": "2026-11-03 06:09 JST"
+  "updatedAt": "2026-11-03 06:48 JST",
+  "todayTokensYi": 0.526,
+  "todayUserMessages": 114,
+  "todayTotalMessages": 263,
+  "totalUsedYi": 9.348,
+  "totalUserMessages": 2382,
+  "activeDays": 11
 }
